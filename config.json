@@ -1,0 +1,7 @@
+{
+    "secret": "
+1b6f1a77e013a0e996b6990697a4c31c3a6c4db56b530378a2223a484de5c263",
+    "tgId": "1050826600",
+    "initData": "query_id=AAFoV6I-AAAAAGhXoj64A72Q&user=%7B%22id%22%3A1050826600%2C%22first_name%22%3A%22T%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22lothiet%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719474394&hash=fceaf305ea45772176f551a39746e87fc5158fcd928497b1f7d0c633ad3524f0",
+    "auto_upgrade": true
+}
